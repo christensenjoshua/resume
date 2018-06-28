@@ -1,12 +1,12 @@
 body{
-    background-color:rgb(228, 163, 163);
+    background: linear-gradient(to bottom right, rosybrown, brown);
 }
 .resume-header {
     margin-left:20%;
     margin-right:20%;
     padding:1rem;
     width:60%;
-    background-color:rgba(255,255,255,0.1);
+    background-color:rgba(255,255,255,0.3);
 }
 .resume-header-title {
     margin-left:20%;
@@ -19,7 +19,7 @@ body{
     margin-right:20%;
     padding:1rem;
     width:60%;
-    background-color:rgba(255,255,255,0.1);
+    background-color:rgba(255,255,255,0.3);
 }
 .resume-work-title {
     margin-left:15%;
@@ -32,7 +32,7 @@ body{
     margin-right:20%;
     padding:1rem;
     width:60%;
-    background-color:rgba(255,255,255,0.1);
+    background-color:rgba(255,255,255,0.3);
 }
 .titles{
     font-family:sans-serif;
