@@ -49,3 +49,9 @@ body{
     font-size:1rem;
     font-weight:200;
 }
+.resume-header-content{
+    border-bottom:1px solid white;
+}
+.content-item{
+    border-bottom:1px solid white;
+}
