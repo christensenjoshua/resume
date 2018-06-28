@@ -1,11 +1,36 @@
 .resume-header {
-    margin-left:35%;
-    margin-right:35%;
-    width:30%;
+    margin-left:20%;
+    margin-right:20%;
+    width:60%;
 }
 .resume-header-title {
     margin-left:15%;
     margin-right:15%;
     width:70%;
     text-align:center;
+}
+.resume-header-content{
+    margin-left:15%;
+    margin-right:15%;
+    width:70%;
+}
+.resume-work{
+    margin-left:20%;
+    margin-right:20%;
+    width:60%;
+}
+.resume-work-title {
+    margin-left:15%;
+    margin-right:15%;
+    width:70%;
+    text-align:center;
+}
+.titles{
+    
+}
+.smaller-titles{
+
+}
+.subtitles{
+
 }
